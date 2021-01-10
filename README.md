@@ -1,6 +1,6 @@
 ### Hi there, I'm João.
 
-## I'm just a programming enthusiast, who wants to learn more and more.
+## Just a programming enthusiast, who wants to learn more and more.
 - 💻 My discord is: Tellay ⚡#6666.
 - 🛏️ My favourite thing is sleep!
 
