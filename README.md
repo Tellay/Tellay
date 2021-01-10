@@ -14,6 +14,4 @@
 
 ---
 
-## Github stats:
-
 <img align="left" alt="Tellay's GitHub Stats" src="https://github-readme-stats.tellay.vercel.app/api?username=Tellay&show_icons=true&hide_border=true" />
