@@ -15,7 +15,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-square&logo=sass&logoColor=white"/>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logo=Mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-CB3837?style=flat-square&logo=npm&logo=Mongodb&logoColor=white" />
 </p>
 
 <br/>
