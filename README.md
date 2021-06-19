@@ -16,9 +16,8 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white" />
-  
 </p>
 
 ---
 
-[![Github](https://github-readme-stats.vercel.app/api?username=Tellay&show_icons=true&hide_border=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Github](https://github-readme-stats.vercel.app/api?username=Tellay&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
