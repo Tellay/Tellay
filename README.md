@@ -20,4 +20,4 @@
 
 ---
 
-[![Github](https://github-readme-stats.vercel.app/api?username=Tellay&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Github](https://github-readme-stats.vercel.app/api?username=Tellay&show_icons=true&hide_border=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
