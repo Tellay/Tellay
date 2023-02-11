@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
 </div>
 
-### Also work with:
+### Also works with:
 
 <div style="display: flex">
   <img src="https://skillicons.dev/icons?i=vercel,vite&theme=dark"/>
