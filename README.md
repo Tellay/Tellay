@@ -34,7 +34,7 @@
 ### Also works with:
 
 <div style="display: flex">
-  <img src="https://skillicons.dev/icons?i=vercel,vite&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=netlify,vite&theme=dark"/>
 </div>
 
 ##
