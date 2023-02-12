@@ -1,4 +1,4 @@
-### Hi there, I'm João.
+### Hi there, I'm João. 👋
 ## Just a programming enthusiast, who wants to learn more and more.
 
 **About me**
@@ -6,6 +6,8 @@
 - 💻 Full-stack developer (focused on front-end)
 - 🛏️ Love to sleep!
 - 📩 Contact me on Discord: Tellay ⚡#0807.
+
+## 🧪 Experience
 
 ### Languages & Runtimes:
 
