@@ -12,7 +12,7 @@
 ### Languages & Runtimes:
 
 <div style="display: flex">
-  <img src="C"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,cpp,cs&theme=dark"/>
 </div>
 
 ### Frameworks:
