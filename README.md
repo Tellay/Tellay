@@ -12,7 +12,7 @@
 ### Languages & Runtimes:
 
 <div style="display: flex">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,cpp,cs&theme=dark"/>
+  <img src="C"/>
 </div>
 
 ### Frameworks:
@@ -30,7 +30,7 @@
 ### Databases:
 
 <div style="display: flex">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark"/>
 </div>
 
 ### Also works with:
