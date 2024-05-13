@@ -7,4 +7,4 @@ At 17 years old, I have skills as a front-end programmer, as well as some experi
 
 ### Experience
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,prisma,git,github,cpp,cs,mongodb,mysql,tailwindcss,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,prisma,git,github,cpp,cs,mongodb,mysql,postgresql,tailwindcss,html,css&theme=dark"/>
